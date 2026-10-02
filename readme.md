@@ -1,3 +1,4 @@
+##Add these changes
  "tools": [
         # ── The Task tool enables subagent spawning ──────────────────
         {
